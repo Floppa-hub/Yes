@@ -11,3 +11,10 @@ Tab:AddButton({
       		print("button pressed")
   	end    
 })
+Tab:AddLabel("Label")
+Tab:AddButton({
+	Name = "Button!",
+	Callback = function()
+      		print("button pressed")
+  	end    
+})
