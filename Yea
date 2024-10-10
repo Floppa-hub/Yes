@@ -54,10 +54,10 @@ local function onAnimationPlayed(animationTrack)
     
     -- List of animations and their replacements
     local animationReplacements = {
-        [0] = "rbxassetid://0",  -- Move 1
-        [0] = "rbxassetid://0",  -- Move 2
-        [0] = "rbxassetid://0",  -- Move 3
-        [0] = "rbxassetid://0",  -- Move 4
+        [0] = "rbxassetid://16945573694",  -- Move 1
+        [0] = "rbxassetid://16945550029",  -- Move 2
+        [0] = "rbxassetid://16944345619",  -- Move 3
+        [0] = "rbxassetid://17325254223",  -- Move 4
         [0] = "rbxassetid://0",  -- Ult Move 1
         [0] = "rbxassetid://0",  -- Ult Move 2
         [0] = "rbxassetid://0",  -- Ult Move 3
