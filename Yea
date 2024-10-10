@@ -60,7 +60,7 @@ local function onAnimationPlayed(animationTrack)
         [0] = "rbxassetid://17325254223",  -- Move 4
         [0] = "rbxassetid://0",  -- Ult Move 1
         [0] = "rbxassetid://0",  -- Ult Move 2
-        [0] = "rbxassetid://0",  -- Ult Move 3
+        [0] = "rbxassetid://13071982935",  -- Ult Move 3
         [0] = "rbxassetid://0",  -- Ult Move 4
         [0] = "rbxassetid://0",  -- Dash
         [0] = "rbxassetid://0",  -- Uppercut
