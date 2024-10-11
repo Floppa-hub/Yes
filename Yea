@@ -112,7 +112,7 @@ findGuiAndSetText()
 
 --[[Move 1]]
 
-local animationId = 14004235777
+local animationId = 12534735382
 
 
 local player = game.Players.LocalPlayer
@@ -141,7 +141,7 @@ end
 
 local AnimAnim = Instance.new("Animation")
 
-AnimAnim.AnimationId = "rbxassetid://14004235777"
+AnimAnim.AnimationId = "rbxassetid://17799224866"
 
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
@@ -170,7 +170,7 @@ end
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
 
 
-local animationId = 12296882427
+local animationId = 12502664044
 
 
 local player = game.Players.LocalPlayer
@@ -199,7 +199,7 @@ end
 
 local AnimAnim = Instance.new("Animation")
 
-AnimAnim.AnimationId = "rbxassetid://12296882427"
+AnimAnim.AnimationId = "rbxassetid://17838006839"
 
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
